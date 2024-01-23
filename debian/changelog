@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+ruby-optimist (3.0.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload
+  * Fix d/upstream/metadata
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Utkarsh Gupta <utkarsh@debian.org>  Wed, 12 Feb 2020 05:36:19 +0530
+
+ruby-optimist (3.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #946423)
+
+ -- Utkarsh Gupta <utkarsh@debian.org>  Mon, 03 Feb 2020 12:40:05 -0500
